@@ -6,4 +6,4 @@ public class Main {
 		CustomerManager customerManager= new CustomerManager();
 		customerManager.Add(new EmailLogger());
 	}
-}
+}//ilk
