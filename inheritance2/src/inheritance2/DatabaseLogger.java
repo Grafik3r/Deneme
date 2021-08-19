@@ -6,3 +6,4 @@ public class DatabaseLogger extends Logger {
 		System.out.println("Database loglandý.");
 	}
 }
+//2. 3. commit
