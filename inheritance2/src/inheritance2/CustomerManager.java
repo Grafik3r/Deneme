@@ -5,4 +5,4 @@ public class CustomerManager {
 		System.out.println("Müþteri eklendi.");
 		logger.log();
 	}
-}
+}//2.commit
